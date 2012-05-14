@@ -1,4 +1,4 @@
-I organized it by Chapter.
+I organized it by Chapter. Clone this repo to your local machine and follow the guide for remote
+pushes. We should all update periodically. 
 
-It's a public repo, but doubtful anyone will find it. Eventually we'll have to delete this project
-when we host the code officially for the book. 
+Eventually we'll have to delete this project when we host the code officially.
