@@ -3,9 +3,9 @@ pushes. We should all update periodically.
 
 My struture for Ch4 just helps me organize everything.
 
-src contains all my code samples. This is in maven form /src/main/java and src/main/hql'
-data contains the various sample datasets I need for my examples. 
-recipes is the actual word doc content. 
+Ch4/src contains all my code samples. This is in maven form /src/main/java and src/main/hql'.
+Ch4/data contains the various sample datasets I need for my examples. 
+Ch4/recipes is the actual word doc content. 
 
 Sources.docx is to help track which sites we need to reference. 
 
