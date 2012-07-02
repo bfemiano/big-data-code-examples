@@ -35,7 +35,7 @@ public class NamedCountryOutputJob implements Tool{
             System.exit(1);
         }
 
-        Job job = new Job(conf, "IP count by country by with named output");
+        Job job = new Job(conf, "IP count by country to named files");
         job.setInputFormatClass(TextInputFormat.class);
 
         job.setMapperClass(IPCountryMapper.class);
