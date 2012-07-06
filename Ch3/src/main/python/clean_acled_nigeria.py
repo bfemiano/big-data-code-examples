@@ -14,7 +14,7 @@ for line in sys.stdin:
 		if len(month) == 1:
   			month = '0' + month
 		if len(year) == 2:
-			if int(year) > 30 and int(year) < 99:
+			if int(year) > 30 and int(year) <= 99:
 				year = '19' + year
 			else:
 				year = '20' + year

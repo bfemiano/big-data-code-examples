@@ -62,8 +62,8 @@ Abonnema	2008-07-30	Battle-No change of territory	Unidentified Armed Group (Nige
 Abonnema Wharf	2004-09-08	Battle-No change of territory	Military Forces of Nigeria (1999-2007)	4.73012	6.77373	PM News (Nigeria)	NULL
 Abraka	2005-08-03	Riots/Protests	Protesters (Nigeria)	5.7833	6.1	Dow Jones International News	1
 Abuja	1998-03-03	Battle-No change of territory	UAD: United Action for Democracy Militia	9.066667	7.483333	Reuters News	NULL
-Abuja	2099-09-09	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	9.066667	7.483333	Reuters News	2
-Abuja	2099-12-30	Battle-No change of territory	AD: Alliance For Democracy Militia (Nigeria)	9.066667	7.483333	BBC Monitoring Africa	NULL
+Abuja	1999-09-09	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	9.066667	7.483333	Reuters News	2
+Abuja	1999-12-30	Battle-No change of territory	AD: Alliance For Democracy Militia (Nigeria)	9.066667	7.483333	BBC Monitoring Africa	NULL
 Abuja	2000-09-01	Riots/Protests	Rioters (Nigeria)	9.066667	7.483333	Adelaide Advertiser	1
 Abuja	2000-06-05	Battle-No change of territory	PDP: People's Democratic Party Militia (Nigeria)	9.066667	7.483333	Agence France Presse	NULL
 Abuja	2000-03-08	Battle-No change of territory	Muslim Militia (Nigeria)	9.066667	7.483333	Reuters News	5
@@ -254,7 +254,7 @@ Alimoso	2002-11-25	Violence against civilians	Unidentified Armed Group (Nigeria)
 Amabolu	2005-11-01	Non-violent transfer of territory	AHOI: Amabolu High Operational Integrity	5.05	5.7833	Agence France Presse	NULL
 Amabolu	2005-11-22	Battle-Government regains territory	Military Forces of Nigeria (1999-2007)	5.05	5.7833	Agence France Presse	NULL
 Amatu	2007-10-06	Violence against civilians	MEND: Movement for the Emancipation of the Niger Delta	4.93333	5.46667	Vanguard (Nigeria)	NULL
-Anambra State	2099-07-26	Battle-No change of territory	Aguleri Ethnic Militia (Nigeria)	6.33333	7.0	Business Day	120
+Anambra State	1999-07-26	Battle-No change of territory	Aguleri Ethnic Militia (Nigeria)	6.33333	7.0	Business Day	120
 Anambra State	2002-07-14	Battle-No change of territory	Bakassi Boys Militia (Nigeria)	6.33333	7.0	Xinhua News Agency	3
 Anambra State	2003-01-24	Battle-No change of territory	Bakassi Boys Militia (Nigeria)	6.33333	7.0	Reuters News	NULL
 Anambra State	2007-04-15	Violence against civilians	Unidentified Armed Group (Nigeria)	6.33333	7.0	BBC Monitoring Newsfile	3
@@ -404,8 +404,8 @@ Bauchi	2011-06-25	Non-violent activity by a conflict actor	Boko Haram  Militia (
 Bauchi	2011-08-29	Violence against civilians	Boko Haram  Militia (Nigeria)	10.31583	9.84417	Agence France Presse	NULL
 Bauchi	2011-11-11	Violence against civilians	Boko Haram  Militia (Nigeria)	10.31583	9.84417	Agence France Presse	NULL
 Bauchi	2011-07-13	Violence against civilians	Boko Haram  Militia (Nigeria)	10.31583	9.84417	Africa Research Bulletin	NULL
-Bayelsa State	2099-01-01	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.75	6.08333	Reuters News	19
-Bayelsa State	2099-01-06	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.75	6.08333	The Guardian	30
+Bayelsa State	1999-01-01	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.75	6.08333	Reuters News	19
+Bayelsa State	1999-01-06	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.75	6.08333	The Guardian	30
 Bayelsa State	2001-04-30	Battle-No change of territory	Agege Ethnic Militia (Nigeria)	4.75	6.08333	Reuters News	20
 Bayelsa State	2004-12-25	Violence against civilians	Civilians (Nigeria)	4.75	6.08333	Agence France Presse	NULL
 Bayelsa State	2006-08-19	Battle-No change of territory	Military Forces of Nigeria (1999-2007)	4.75	6.08333	Reuters News	NULL
@@ -468,7 +468,7 @@ Benin City	2010-07-25	Violence against civilians	AC: Action Congress Militia (Ni
 Benin City	2010-08-09	Violence against civilians	Unidentified Armed Group (Nigeria)	6.3176	5.6145	All Africa	1
 Benin City	2010-08-29	Violence against civilians	Unidentified Armed Group (Nigeria)	6.3176	5.6145	Agence France Presse	NULL
 Benin City	2010-09-07	Violence against civilians	Unidentified Armed Group (Nigeria)	6.3176	5.6145	All Africa	1
-Benue State	2099-11-27	Violence against civilians	Unidentified Armed Group (Nigeria)	7.33333	8.75	BBC Monitoring Africa	1
+Benue State	1999-11-27	Violence against civilians	Unidentified Armed Group (Nigeria)	7.33333	8.75	BBC Monitoring Africa	1
 Benue State	2007-03-18	Battle-No change of territory	Unidentified Political Militia (Nigeria)	7.33333	8.75	Agence France Presse	NULL
 Benue State	2007-12-29	Violence against civilians	PDP: People's Democratic Party Militia (Nigeria)	7.33333	8.75	All Africa	NULL
 Benue State	2010-09-05	Battle-No change of territory	PDP: People's Democratic Party Militia (Nigeria) Faction 1	7.33333	8.75	All Africa	NULL
@@ -519,8 +519,8 @@ Bonga Off-Shore Oil Platform	2008-06-19	Violence against civilians	MEND: Movemen
 Bonny Export Terminal	2011-01-20	Violence against civilians	Unidentified Armed Group (Pirates)	4.3833	7.1	Agence France Presse	NULL
 Bonny Island	1998-10-08	Riots/Protests	Protesters (Nigeria)	4.4492	7.24	Reuters News	NULL
 Bonny Island	1998-03-12	Riots/Protests	Rioters (Nigeria)	4.4492	7.24	Reuters News	NULL
-Bonny Island	2099-12-02	Non-violent activity by a conflict actor	Unidentified Armed Group (Nigeria)	4.4492	7.24	Reuters News	NULL
-Bonny Island	2099-09-21	Riots/Protests	Protesters (Nigeria)	4.4492	7.24	Reuters News	NULL
+Bonny Island	1999-12-02	Non-violent activity by a conflict actor	Unidentified Armed Group (Nigeria)	4.4492	7.24	Reuters News	NULL
+Bonny Island	1999-09-21	Riots/Protests	Protesters (Nigeria)	4.4492	7.24	Reuters News	NULL
 Bonny Island	2006-08-04	Violence against civilians	Unidentified Armed Group (Nigeria)	4.4492	7.24	AFP	NULL
 Bonny Island	2007-01-16	Violence against civilians	Unidentified Armed Group (Nigeria)	4.4492	7.24	Agence France Presse	4
 Bonny Island	2007-01-16	Violence against civilians	Unidentified Armed Group (Nigeria)	4.4492	7.24	Reuters News	1
@@ -701,7 +701,7 @@ Effurun	2009-10-16	Battle-No change of territory	Effurun Community Militia (Nige
 Effurun	2009-11-27	Riots/Protests	Rioters (Nigeria)	5.55463	5.78624	All Africa	NULL
 Effurun	2010-04-27	Riots/Protests	Protesters (Nigeria)	5.55463	5.78624	BBC Monitoring	NULL
 Effurun	2010-03-06	Riots/Protests	Protesters (Nigeria)	5.55463	5.78624	All Africa	NULL
-Efon	2099-03-10	Battle-No change of territory	OPC: Oodua People's Congress	7.36667	3.63333	BBC Monitoring Africa	5
+Efon	1999-03-10	Battle-No change of territory	OPC: Oodua People's Congress	7.36667	3.63333	BBC Monitoring Africa	5
 Egbeda	2009-09-20	Violence against civilians	Unidentified Armed Group (Nigeria)	5.23408	6.75194	BBC Monitoring Africa	NULL
 Egbeda-Akowonjo	2004-05-03	Riots/Protests	Protesters (Nigeria)	6.61012	3.30968	PM News (Nigeria)	NULL
 Egbema	2009-06-24	Violence against civilians	Military Forces of Nigeria (2007-)	5.05	5.7833	Dow Jones International News	NULL
@@ -720,7 +720,7 @@ Ekeremor	2010-03-04	Battle-No change of territory	Ekeremor Community Militia (Ni
 Ekerenkoko	2006-07-12	Violence against civilians	Unidentified Armed Group (Nigeria)	5.5	6.0	BBC Monitoring	NULL
 Ekerenkoko	2006-07-12	Battle-No change of territory	Military Forces of Nigeria (1999-2007)	5.5	6.0	Reuters News	NULL
 Eket	1998-04-05	Violence against civilians	Unidentified Armed Group (Nigeria)	4.65	7.93333	The Guardian	1
-Eket	2099-11-04	Riots/Protests	Rioters (Nigeria)	4.65	7.93333	The Oil Daily	NULL
+Eket	1999-11-04	Riots/Protests	Rioters (Nigeria)	4.65	7.93333	The Oil Daily	NULL
 Eket	2006-10-03	Violence against civilians	Unidentified Armed Group (Nigeria)	4.65	7.93333	AP Reuters	NULL
 Eket	2008-02-22	Violence against civilians	Unidentified Armed Group (Nigeria)	4.65	7.93333	Vanguard (Nigeria)	1
 Eket	2008-06-15	Violence against civilians	Unidentified Armed Group (Nigeria)	4.65	7.93333	Vanguard (Nigeria)	1
@@ -791,7 +791,7 @@ Ezillo	2008-07-02	Battle-No change of territory	Unidentified Armed Group (Nigeri
 Ezillo	2008-05-09	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.4277	7.7926	Vanguard (Nigeria)	NULL
 Ezza Abia	2003-03-22	Violence against civilians	Unidentified Armed Group (Nigeria)	6.2181	8.0653	All Africa	NULL
 Ezza Abia	2010-01-30	Battle-No change of territory	PDP: People's Democratic Party Militia (Nigeria) Faction 2	6.2181	8.0653	All Africa	NULL
-Fishtown River	2099-11-16	Battle-No change of territory	Kolama Ethnic Militia (Nigeria)	4.41292	5.8439	Reuters News	NULL
+Fishtown River	1999-11-16	Battle-No change of territory	Kolama Ethnic Militia (Nigeria)	4.41292	5.8439	Reuters News	NULL
 Forcados	1998-12-07	Non-violent activity by a conflict actor	Ogulagha Community Militia (Nigeria)	5.35886	5.43827	Reuters News	NULL
 Forcados	1998-10-08	Riots/Protests	Protesters (Nigeria)	5.35886	5.43827	Reuters News	NULL
 Forcados	2008-02-18	Violence against civilians	Civilians (International)	5.35886	5.43827	AFP	NULL
@@ -882,8 +882,8 @@ Ibadan	1998-05-01	Riots/Protests	Rioters (Nigeria)	7.38778	3.89639	Hindustan Tim
 Ibadan	1998-04-15	Violence against civilians	Police Forces of Nigeria (1993-1999)	7.38778	3.89639	Dow Jones International News	3
 Ibadan	1998-06-20	Riots/Protests	Rioters (Nigeria)	7.38778	3.89639	Xinhua News Agency	14
 Ibadan	1998-07-08	Riots/Protests	Rioters (Nigeria)	7.38778	3.89639	Dow Jones International News	10
-Ibadan	2099-05-04	Riots/Protests	Rioters (Nigeria)	7.38778	3.89639	Xinhua News Agency	NULL
-Ibadan	2099-06-26	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	7.38778	3.89639	Xinhua News Agency	7
+Ibadan	1999-05-04	Riots/Protests	Rioters (Nigeria)	7.38778	3.89639	Xinhua News Agency	NULL
+Ibadan	1999-06-26	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	7.38778	3.89639	Xinhua News Agency	7
 Ibadan	2000-01-05	Violence against civilians	Unidentified Armed Group (Nigeria)	7.38778	3.89639	BBC Monitoring Africa	10
 Ibadan	2000-05-06	Violence against civilians	Police Forces of Nigeria (1999-2007)	7.38778	3.89639	Agence France Presse	5
 Ibadan	2000-05-06	Violence against civilians	Unidentified Armed Group (Nigeria)	7.38778	3.89639	BBC Monitoring Africa	NULL
@@ -954,7 +954,7 @@ Ife-Ife	1997-09-23	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.
 Ife-Ife	1997-11-12	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.46667	4.56667	Daily Times	8
 Ife-Ife	1997-12-31	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.46667	4.56667	Reuters News	6
 Ife-Ife	1998-08-18	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.46667	4.56667	Xinhua News Agency	14
-Ife-Ife	2099-07-10	Violence against civilians	Unidentified Armed Group (Nigeria)	7.46667	4.5667	Xinhua News Agency	7
+Ife-Ife	1999-07-10	Violence against civilians	Unidentified Armed Group (Nigeria)	7.46667	4.5667	Xinhua News Agency	7
 Ife-Ife	2000-06-01	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.46667	4.56667	Dow Jones International News	6
 Ife-Ife	2000-03-16	Battle-No change of territory	Muslim Militia (Nigeria)	7.46667	4.56667	Reuters News	15
 Ife-Ife	2000-05-04	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	7.46667	4.56667	Agence France Presse	25
@@ -978,7 +978,7 @@ Ijebu-Ife	2009-12-08	Riots/Protests	Rioters (Nigeria)	6.78333	4.03333	Agence Fra
 Ijebu-Ife	2009-12-08	Riots/Protests	Rioters (Nigeria)	6.78333	4.03333	Agence France Presse	12
 Ijebu-Ode	1997-02-16	Violence against civilians	Police Forces of Nigeria (1993-1999)	6.81667	3.93333	The Guardian	1
 Ijebu-Ode	1998-09-17	Non-violent activity by a conflict actor	Unidentified Armed Group (Nigeria)	6.81667	3.93333	All Africa	NULL
-Ijebu-Ode	2099-04-14	Violence against civilians	Military Forces of Nigeria (1993-1999)	6.81667	3.93333	BBC Monitoring Africa	10
+Ijebu-Ode	1999-04-14	Violence against civilians	Military Forces of Nigeria (1993-1999)	6.81667	3.93333	BBC Monitoring Africa	10
 Ijebu-Ode	2005-04-21	Violence against civilians	Unidentified Armed Group (Nigeria)	6.81667	3.93333	Panafrican News Agency	10
 Ijebu-Ode	2006-05-06	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.81667	3.93333	Panafrican News Agency	5
 Ijebu-Ode	2006-05-08	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.81667	3.93333	Panafrican News Agency	2
@@ -996,7 +996,7 @@ Ikang	2011-02-02	Violence against civilians	Unidentified Armed Group (Pirates)	4
 Ikare	2010-01-02	Battle-No change of territory	Oyinmo Community Militia (Nigeria)	7.51667	5.75	All Africa	NULL
 Ikare	2010-01-02	Violence against civilians	Akungba Community Militia (Nigeria)	7.51667	5.75	All Africa	1
 Ikare	2010-01-02	Violence against civilians	Oyinmo Community Militia (Nigeria)	7.51667	5.75	All Africa	NULL
-Ikebiri	2099-04-21	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.7058	5.9988	Reuters News	7
+Ikebiri	1999-04-21	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.7058	5.9988	Reuters News	7
 Ikeja	2000-07-10	Battle-No change of territory	ANCA: Customs Clearing Agents	6.59422	3.33748	All Africa	2
 Ikeja	2001-03-07	Violence against civilians	Unidentified Armed Group (Nigeria)	6.59422	3.33748	The Progress	NULL
 Ikeja	2001-03-08	Battle-No change of territory	Police Forces of Nigeria (1999-2007)	6.59422	3.33748	The Progress	2
@@ -1036,7 +1036,7 @@ Ile Pupa	2002-05-29	Violence against civilians	Unidentified Armed Group (Nigeria
 Ilesa	2005-05-26	Violence against civilians	Unidentified Armed Group (Nigeria)	7.6167	4.7333	This Day (Nigeria)	NULL
 Ilorin	1997-03-05	Violence against civilians	Police Forces of Nigeria (1993-1999)	8.5	4.55	Reuters News	2
 Ilorin	1998-03-10	Riots/Protests	Rioters (Nigeria)	8.5	4.55	Xinhua News Agency	3
-Ilorin	2099-12-20	Violence against civilians	Muslim Militia (Nigeria)	8.5	4.55	Reuters News	NULL
+Ilorin	1999-12-20	Violence against civilians	Muslim Militia (Nigeria)	8.5	4.55	Reuters News	NULL
 Ilorin	2000-10-16	Battle-No change of territory	OPC: Oodua People's Congress	8.5	4.55	All Africa	10
 Ilorin	2001-12-07	Violence against civilians	Unidentified Armed Group (Nigeria)	8.5	4.55	BBC Monitoring Africa	1
 Ilorin	2001-09-15	Violence against civilians	Kwara State Community Militia	8.5	4.55	Xinhua News Agency	6
@@ -1086,7 +1086,7 @@ Ishiagu	2003-02-25	Battle-No change of territory	Unidentified Armed Group (Niger
 Isiokolo	2008-09-03	Violence against civilians	Unidentified Armed Group (Nigeria)	5.63333	6.03333	Vanguard (Nigeria)	1
 Isiokolo	2008-09-03	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.63333	6.03333	Vanguard (Nigeria)	3
 Isoko	1998-12-17	Non-violent activity by a conflict actor	Isoko Ethnic Militia (Nigeria)	7.91667	4.28333	Reuters News	NULL
-Isoko	2099-11-18	Battle-No change of territory	Oleh Ethnic Militia (Nigeria)	7.91667	4.28333	Reuters News	50
+Isoko	1999-11-18	Battle-No change of territory	Oleh Ethnic Militia (Nigeria)	7.91667	4.28333	Reuters News	50
 Isoko	2003-05-03	Battle-No change of territory	PDP: People's Democratic Party Militia (Nigeria)	7.91667	4.28333	Xinhua News Agency	NULL
 Isoko	2007-07-05	Violence against civilians	Unidentified Armed Group (Nigeria)	7.91667	4.28333	BBC Monitoring Africa	NULL
 Isoko	2011-04-09	Battle-No change of territory	Unidentified Armed Group (Nigeria)	7.91667	4.28333	BBC Monitoring Africa	2
@@ -1098,15 +1098,15 @@ Itu	2001-12-07	Battle-No change of territory	Odukpani Ethnic Militia	5.0	7.83333
 Iyana-Ejigbo	2000-10-11	Battle-No change of territory	OPC: Oodua People's Congress	8.81667	4.93333	All Africa	3
 Jajere	2010-11-21	Battle-No change of territory	Boko Haram  Militia (Nigeria)	11.9797	11.4443	Agence France Presse	NULL
 Jakusko	2008-08-25	Violence against civilians	Unidentified Armed Group (Nigeria)	12.3691	10.7731	All Africa	7
-Jalingo	2099-06-18	Battle-No change of territory	Unidentified Armed Group (Chad)	8.88333	11.36667	Xinhua News Agency	3
-Jalingo	2099-04-07	Riots/Protests	Rioters (Nigeria)	8.88333	11.36667	Reuters News	NULL
+Jalingo	1999-06-18	Battle-No change of territory	Unidentified Armed Group (Chad)	8.88333	11.36667	Xinhua News Agency	3
+Jalingo	1999-04-07	Riots/Protests	Rioters (Nigeria)	8.88333	11.36667	Reuters News	NULL
 Jalingo	2011-04-17	Riots/Protests	Rioters (Nigeria)	8.88333	11.36667	BBC Monitoring Africa	NULL
 Jato-Aka in Kwande	2004-06-17	Violence against civilians	Tiv Defense Corps Militia (Nigeria)	6.8898	9.50561	Reuters News	NULL
 Jawando	2004-04-11	Violence against civilians	Fulani Ethnic Militia (Nigeria)	9.91667	8.9	Reuters News	NULL
 Jega	2004-05-28	Violence against civilians	Muslim Militia (Nigeria)	12.2175	4.3792	Reuters News	NULL
 Jenkur	2004-04-11	Violence against civilians	Fulani Ethnic Militia (Nigeria)	9.91667	8.9	Reuters News	NULL
 Jibowu	2001-07-17	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.65944	3.29861	The Progress	1
-Jigawa State	2099-05-04	Riots/Protests	Rioters (Nigeria)	12.0	9.75	BBC Monitoring Africa	3
+Jigawa State	1999-05-04	Riots/Protests	Rioters (Nigeria)	12.0	9.75	BBC Monitoring Africa	3
 Jigawa State	2003-11-19	Battle-No change of territory	Muslim Militia (Nigeria)	12.0	9.75	Associated Press Newswires	1
 Jimeta	2002-05-18	Violence against civilians	Unidentified Armed Group (Nigeria)	9.28333	12.46667	Africa News Service	2
 Jimeta	2011-01-04	Riots/Protests	Rioters (Nigeria)	9.28333	12.46667	BBC Monitoring Africa	NULL
@@ -1230,8 +1230,8 @@ Kaduna City	1997-09-18	Riots/Protests	Protesters (Nigeria)	10.52306	7.44028	Reut
 Kaduna City	1998-04-20	Battle-No change of territory	Muslim Militia (Nigeria)	10.52306	7.44028	Reuters News	3
 Kaduna City	1998-02-11	Riots/Protests	Protesters (Nigeria)	10.52306	7.44028	Reuters News	NULL
 Kaduna City	1998-09-12	Violence against civilians	Police Forces of Nigeria (1993-1999)	10.52306	7.44028	Reuters News	13
-Kaduna City	2099-05-06	Violence against civilians	Unidentified Armed Group (Nigeria)	10.52306	7.44028	All Africa	1
-Kaduna City	2099-09-10	Battle-No change of territory	Shiite Islamic Militia (Nigeria)	10.52306	7.44028	Reuters News	4
+Kaduna City	1999-05-06	Violence against civilians	Unidentified Armed Group (Nigeria)	10.52306	7.44028	All Africa	1
+Kaduna City	1999-09-10	Battle-No change of territory	Shiite Islamic Militia (Nigeria)	10.52306	7.44028	Reuters News	4
 Kaduna City	2000-02-21	Battle-No change of territory	Muslim Militia (Nigeria)	10.52306	7.44028	Dow Jones International News	300
 Kaduna City	2000-05-13	Riots/Protests	Rioters (Nigeria)	10.52306	7.44028	Agence France Presse	1
 Kaduna City	2000-05-23	Battle-No change of territory	Muslim Militia (Nigeria)	10.52306	7.44028	Dow Jones International News	NULL
@@ -1255,15 +1255,15 @@ Kaduna City	2011-04-18	Riots/Protests	Rioters (Nigeria)	10.52306	7.44028	Dow Jon
 Kaduna City	2011-04-22	Violence against civilians	Unidentified Armed Group (Nigeria)	10.52306	7.44028	Agence France Presse	1
 Kaduna City	2010-09-14	Violence against civilians	Unidentified Armed Group (Nigeria)	10.52306	7.44028	Associated Press	1
 Kaduna State	1998-10-05	Violence against civilians	Unidentified Armed Group (Nigeria)	10.33333	7.75	Reuters News	30
-Kaduna State	2099-04-16	Violence against civilians	Unidentified Armed Group (Nigeria)	10.33333	7.75	Reuters News	10
+Kaduna State	1999-04-16	Violence against civilians	Unidentified Armed Group (Nigeria)	10.33333	7.75	Reuters News	10
 Kaduna State	2000-03-20	Violence against civilians	Police Forces of Nigeria (1999-2007)	10.33333	7.75	Reuters News	4
 Kaduna State	2010-01-24	Riots/Protests	Rioters (Nigeria)	10.33333	7.75	All Africa	NULL
 Kaduna State	2011-06-25	Non-violent activity by a conflict actor	Boko Haram  Militia (Nigeria)	10.33333	7.75	Xinhua News Agency	NULL
 Kaduna State	2011-08-27	Violence against civilians	Unidentified Armed Group (Nigeria)	10.33333	7.75	Africa Research Bulletin	1
 Kaduna-Abuja road	2004-09-29	Battle-No change of territory	Military Forces of Nigeria (1999-2007)	10.5231	7.4403	Panafrican News Agency	NULL
-Kafanchan	2099-05-22	Violence against civilians	Unidentified Armed Group (Nigeria)	9.58333	8.3	All Africa	NULL
-Kafanchan	2099-05-24	Battle-No change of territory	Kafanchan Community Militia (Nigeria)	9.58333	8.3	Reuters News	100
-Kafanchan	2099-05-27	Battle-No change of territory	Kaningkon Ethnic Militia (Nigeria)	9.58333	8.3	Dow Jones International News	17
+Kafanchan	1999-05-22	Violence against civilians	Unidentified Armed Group (Nigeria)	9.58333	8.3	All Africa	NULL
+Kafanchan	1999-05-24	Battle-No change of territory	Kafanchan Community Militia (Nigeria)	9.58333	8.3	Reuters News	100
+Kafanchan	1999-05-27	Battle-No change of territory	Kaningkon Ethnic Militia (Nigeria)	9.58333	8.3	Dow Jones International News	17
 Kafanchan	2011-10-11	Violence against civilians	Unidentified Armed Group (Nigeria)	9.58333	8.3	Agence France Presse	2
 Kagoro	2009-03-16	Riots/Protests	Rioters (Nigeria)	9.6	8.38333	All Africa	NULL
 Kagoro	2011-12-20	Violence against civilians	Unidentified Armed Group (Nigeria)	9.6	8.38333	Agence France Presse	5
@@ -1286,8 +1286,8 @@ Kano City	1997-06-24	Riots/Protests	Protesters (Nigeria)	11.99639	8.51667	The Gu
 Kano City	1997-02-07	Battle-No change of territory	Muslim Militia (Nigeria)	11.99639	8.51667	Reuters News	4
 Kano City	1998-05-28	Battle-No change of territory	Unidentified Armed Group (Nigeria)	11.99639	8.51667	BBC Monitoring Service	3
 Kano City	1998-09-18	Battle-No change of territory	Muslim Militia (Nigeria)	11.99639	8.51667	BBC Monitoring Service	5
-Kano City	2099-01-29	Battle-No change of territory	Muslim Militia (Nigeria)	11.99639	8.51667	Reuters News	NULL
-Kano City	2099-07-20	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	11.99639	8.51667	Reuters News	NULL
+Kano City	1999-01-29	Battle-No change of territory	Muslim Militia (Nigeria)	11.99639	8.51667	Reuters News	NULL
+Kano City	1999-07-20	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	11.99639	8.51667	Reuters News	NULL
 Kano City	2000-11-14	Riots/Protests	Protesters (Nigeria)	11.99639	8.51667	Agence France Presse	NULL
 Kano City	2001-04-18	Violence against civilians	Muslim Militia (Nigeria)	11.99639	8.51667	IRIN News	NULL
 Kano City	2001-10-13	Battle-No change of territory	Muslim Militia (Nigeria)	11.99639	8.51667	AP Reuters	200
@@ -1351,7 +1351,7 @@ Katari	2003-03-09	Violence against civilians	Unidentified Armed Group (Nigeria)	
 Katsina	2006-02-19	Violence against civilians	Muslim Militia (Nigeria)	10.7166	12.2333	Reuters News	NULL
 Katsina City	1997-12-15	Riots/Protests	Rioters (Nigeria)	12.99778	7.59944	Reuters News	NULL
 Katsina City	1998-01-30	Battle-No change of territory	Muslim Militia (Nigeria)	12.99778	7.55944	Xinhua News Agency	5
-Katsina City	2099-08-21	Riots/Protests	Rioters (Nigeria)	12.99778	7.59944	Reuters News	NULL
+Katsina City	1999-08-21	Riots/Protests	Rioters (Nigeria)	12.99778	7.59944	Reuters News	NULL
 Katsina City	2011-01-15	Riots/Protests	Protesters (Nigeria)	12.99778	7.59944	BBC Monitoring Africa	NULL
 Katsina City	2011-04-18	Riots/Protests	Rioters (Nigeria)	12.99778	7.59944	Reuters	8
 Katsina City	2010-08-21	Riots/Protests	Protesters (Nigeria)	12.99778	7.59944	BBC Monitoring Africa	0
@@ -1360,7 +1360,7 @@ Katsina State	2008-12-04	Battle-No change of territory	Fulani Ethnic Militia (Ni
 Kauru	2010-04-18	Battle-No change of territory	Berom Ethnic Militia (Nigeria)	10.57598	8.14782	Agence France Presse	NULL
 Ke River	2009-02-25	Battle-No change of territory	Military Forces of Nigeria-Joint Task Force (2007-)	4.45456	6.91546	Platts Commodity News	6
 Ke Village	2004-10-02	Violence against civilians	Unidentified Armed Group (Nigeria)	4.45456	6.91546	Agence France Presse	NULL
-Ketu	2099-11-26	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.63483	3.88052	Dow Jones International News	2
+Ketu	1999-11-26	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.63483	3.88052	Dow Jones International News	2
 Ketu	2003-04-02	Violence against civilians	Area Boys Militia (Nigeria)	6.63483	3.88052	All Africa	1
 Ketu	2004-05-03	Riots/Protests	Protesters (Nigeria)	6.63483	3.88052	PM News (Nigeria)	NULL
 Kibiya	2004-04-14	Battle-No change of territory	ANPP: All Nigeria People's Party Militia (Nigeria)	11.53333	8.66667	This Day (Nigeria)	NULL
@@ -1446,32 +1446,32 @@ Lagos City	1998-11-10	Violence against civilians	Police Forces of Nigeria (1993-
 Lagos City	1998-10-21	Violence against civilians	Military Forces of Nigeria-Joint Task Force (1999-2007)	6.45306	3.39583	All Africa	1
 Lagos City	1998-05-11	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
 Lagos City	1998-06-12	Violence against civilians	Civilians (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-01-13	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-01-16	Battle-No change of territory	Area Boys Militia (Nigeria)	6.45306	3.39583	Reuters News	1
-Lagos City	2099-03-02	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Dow Jones International News	1
-Lagos City	2099-04-02	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Dow Jones International News	8
-Lagos City	2099-02-27	Battle-No change of territory	OPC: Oodua People's Congress	6.45306	3.39583	Reuters News	4
-Lagos City	2099-03-03	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Dow Jones International News	5
-Lagos City	2099-03-14	Violence against civilians	Adetokunbo Fakeye Militia (Nigeria)	6.45306	3.39583	All Africa	NULL
-Lagos City	2099-03-31	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	All Africa	NULL
-Lagos City	2099-04-13	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	1
-Lagos City	2099-04-30	Battle-No change of territory	Unidentified Armed Group (Niger)	6.45306	3.39583	Reuters News	9
-Lagos City	2099-01-05	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	5
-Lagos City	2099-05-18	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	6
-Lagos City	2099-06-13	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Reuters News	5
-Lagos City	2099-06-07	Battle-No change of territory	Area Boys Militia (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-11-07	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-09-08	Violence against civilians	Unidentified Armed Group (Niger)	6.45306	3.39583	Reuters News	20
-Lagos City	2099-02-09	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	3
-Lagos City	2099-09-09	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	10
-Lagos City	2099-11-09	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	All Africa	3
-Lagos City	2099-09-23	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Reuters News	7
-Lagos City	2099-02-10	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	5
-Lagos City	2099-10-30	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	BBC Monitoring Africa	15
-Lagos City	2099-01-11	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-11-17	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
-Lagos City	2099-11-25	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	27
-Lagos City	2099-12-13	Violence against civilians	OPC: Oodua People's Congress	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-01-13	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-01-16	Battle-No change of territory	Area Boys Militia (Nigeria)	6.45306	3.39583	Reuters News	1
+Lagos City	1999-03-02	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Dow Jones International News	1
+Lagos City	1999-04-02	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Dow Jones International News	8
+Lagos City	1999-02-27	Battle-No change of territory	OPC: Oodua People's Congress	6.45306	3.39583	Reuters News	4
+Lagos City	1999-03-03	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Dow Jones International News	5
+Lagos City	1999-03-14	Violence against civilians	Adetokunbo Fakeye Militia (Nigeria)	6.45306	3.39583	All Africa	NULL
+Lagos City	1999-03-31	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	All Africa	NULL
+Lagos City	1999-04-13	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	1
+Lagos City	1999-04-30	Battle-No change of territory	Unidentified Armed Group (Niger)	6.45306	3.39583	Reuters News	9
+Lagos City	1999-01-05	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	5
+Lagos City	1999-05-18	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	6
+Lagos City	1999-06-13	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Reuters News	5
+Lagos City	1999-06-07	Battle-No change of territory	Area Boys Militia (Nigeria)	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-11-07	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-09-08	Violence against civilians	Unidentified Armed Group (Niger)	6.45306	3.39583	Reuters News	20
+Lagos City	1999-02-09	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	3
+Lagos City	1999-09-09	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	10
+Lagos City	1999-11-09	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	All Africa	3
+Lagos City	1999-09-23	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Reuters News	7
+Lagos City	1999-02-10	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	5
+Lagos City	1999-10-30	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.45306	3.39583	BBC Monitoring Africa	15
+Lagos City	1999-01-11	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-11-17	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Reuters News	NULL
+Lagos City	1999-11-25	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.45306	3.39583	Reuters News	27
+Lagos City	1999-12-13	Violence against civilians	OPC: Oodua People's Congress	6.45306	3.39583	Reuters News	NULL
 Lagos City	2000-01-01	Violence against civilians	Unidentified Armed Group (Nigeria)	6.45306	3.39583	Xinhua News Agency	5
 Lagos City	2000-06-01	Riots/Protests	Rioters (Nigeria)	6.45306	3.39583	Agence France Presse	NULL
 Lagos City	2000-02-03	Violence against civilians	Civilians (Nigeria)	6.45306	3.39583	Xinhua News Agency	7
@@ -1645,7 +1645,7 @@ Lagos Island	2004-07-27	Violence against civilians	PDP: People's Democratic Part
 Lagos Island	2005-04-04	Battle-No change of territory	Unidentified Armed Group (Nigeria)	6.45444	3.39194	This Day (Nigeria)	2
 Lagos Island	2005-11-13	Riots/Protests	Protesters (Nigeria)	6.45444	3.39194	All Africa	NULL
 Lagos State	1997-12-12	Non-violent activity by a conflict actor	Unidentified Armed Group (Nigeria)	6.58333	3.75	Reuters News	NULL
-Lagos State	2099-11-03	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.58333	3.75	BBC Monitoring Africa	12
+Lagos State	1999-11-03	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.58333	3.75	BBC Monitoring Africa	12
 Lagos State	2000-03-13	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.58333	3.75	BBC Monitoring Africa	15
 Lagos State	2001-08-20	Violence against civilians	Unidentified Armed Group (Nigeria)	6.58333	3.75	All Africa	1
 Lagos State	2005-10-04	Violence against civilians	Military Forces of Nigeria (1999-2007)	6.58333	3.75	Agence France Presse	NULL
@@ -1896,7 +1896,7 @@ Mofoluku	2003-11-19	Battle-No change of territory	Unidentified Armed Group (Nige
 Mokwa	2010-05-03	Battle-No change of territory	Kuchita Ethnic Militia (Nigeria)	9.28333	5.05	All Africa	2
 Mokwa	2010-05-19	Battle-No change of territory	Kpatsuwa Community Militia (Nigeria)	9.28333	5.05	All Africa	1
 Mubi	2011-04-18	Riots/Protests	Rioters (Nigeria)	10.2676	13.2644	BBC Monitoring Africa	1
-Mushin	2099-06-03	Violence against civilians	Area Boys Militia (Nigeria)	6.52626	3.35714	All Africa	NULL
+Mushin	1999-06-03	Violence against civilians	Area Boys Militia (Nigeria)	6.52626	3.35714	All Africa	NULL
 Mushin	2002-02-02	Battle-No change of territory	Yoruba Ethnic Militia (Nigeria)	6.52626	3.35714	Reuters News	NULL
 Mushin	2003-04-08	Battle-No change of territory	Unidentified Political Militia (Nigeria)	6.52626	3.35714	BBC Monitoring Africa	NULL
 Mushin	2004-03-06	Battle-No change of territory	OPC: Oodua People's Congress	6.52626	3.35714	Agence France Presse	NULL
@@ -1938,13 +1938,13 @@ Niger Delta	1998-10-06	Non-violent activity by a conflict actor	Unidentified Arm
 Niger Delta	1998-12-09	Non-violent activity by a conflict actor	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	BBC Monitoring Service	NULL
 Niger Delta	1998-11-11	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Agence France Presse	NULL
 Niger Delta	1998-11-12	Violence against civilians	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Reuters News	7
-Niger Delta	2099-01-31	Battle-No change of territory	Ogulagha Community Militia (Nigeria)	5.326111	6.470833	Reuters News	19
-Niger Delta	2099-06-18	Riots/Protests	Protesters (Nigeria)	5.326111	6.470833	Reuters News	NULL
-Niger Delta	2099-07-20	Violence against civilians	Unidentified Armed Group (Nigeria)	5.326111	6.470833	The Oil Daily	NULL
-Niger Delta	2099-09-28	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	20
-Niger Delta	2099-06-10	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	5
-Niger Delta	2099-11-11	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Dow Jones International News	15
-Niger Delta	2099-11-22	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	7
+Niger Delta	1999-01-31	Battle-No change of territory	Ogulagha Community Militia (Nigeria)	5.326111	6.470833	Reuters News	19
+Niger Delta	1999-06-18	Riots/Protests	Protesters (Nigeria)	5.326111	6.470833	Reuters News	NULL
+Niger Delta	1999-07-20	Violence against civilians	Unidentified Armed Group (Nigeria)	5.326111	6.470833	The Oil Daily	NULL
+Niger Delta	1999-09-28	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	20
+Niger Delta	1999-06-10	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	5
+Niger Delta	1999-11-11	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Dow Jones International News	15
+Niger Delta	1999-11-22	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.326111	6.470833	Reuters News	7
 Niger Delta	2000-06-01	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Reuters News	5
 Niger Delta	2000-03-26	Violence against civilians	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Reuters News	NULL
 Niger Delta	2000-03-26	Violence against civilians	Unidentified Armed Group (Nigeria)	5.326111	6.470833	Reuters News	NULL
@@ -2109,8 +2109,8 @@ Oburo	1998-03-20	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	6.8
 Odau	2005-03-07	Violence against civilians	Unidentified Armed Group (Nigeria)	4.92154	6.45055	Associated Press	NULL
 Ode Itsekiri	2004-01-25	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	5.5	5.71667	BBC Monitoring	NULL
 Odeama village	2005-01-07	Riots/Protests	Protesters (Nigeria)	4.34014	6.43582	Associated Press	NULL
-Odi	2099-11-08	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.17381	6.29974	Reuters News	3
-Odi	2099-11-25	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.17381	6.29974	BBC Monitoring Africa	3
+Odi	1999-11-08	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.17381	6.29974	Reuters News	3
+Odi	1999-11-25	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.17381	6.29974	BBC Monitoring Africa	3
 Odi	2009-05-27	Battle-No change of territory	Police Forces of Nigeria (2007-)	5.5667	5.7167	Vanguard (Nigeria)	1
 Odioma	2005-02-19	Violence against civilians	Military Forces of Nigeria (1999-2007)	4.3297	6.4319	Amnesty International	NULL
 Odioma	2005-02-04	Violence against civilians	Unidentified Armed Group (Nigeria)	4.3297	6.4319	This Day (Nigeria)	NULL
@@ -2205,7 +2205,7 @@ Ondo City	2003-07-31	Riots/Protests	Rioters (Nigeria)	7.1	4.83333	All Africa	3
 Ondo City	2007-07-31	Violence against civilians	Unidentified Armed Group (Nigeria)	7.1	4.83333	All Africa	NULL
 Ondo State	1998-01-22	Battle-No change of territory	Ita Ogbolu Ethnic Militia (Nigeria)	7.16607	5.08333	BBC Monitoring Service	5
 Ondo State	1998-09-24	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	7.16667	5.08333	All Africa	23
-Ondo State	2099-07-31	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	7.16667	5.08333	Dow Jones International News	50
+Ondo State	1999-07-31	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	7.16667	5.08333	Dow Jones International News	50
 Ondo State	2002-07-03	Battle-No change of territory	Unidentified Armed Group (Nigeria)	7.16607	5.08333	All Africa	5
 Ondo State	2003-03-14	Violence against civilians	Unidentified Armed Group (Nigeria)	7.16667	5.08333	Agence France Presse	NULL
 Ondo State	2003-03-25	Battle-No change of territory	PDP: People's Democratic Party Militia (Nigeria)	7.16667	5.08333	This Day (Nigeria)	NULL
@@ -2258,7 +2258,7 @@ Opa River	1998-08-12	Battle-No change of territory	Ife Ethnic Militia (Nigeria)	
 Opobo	2008-06-12	Violence against civilians	Unidentified Armed Group (Nigeria)	4.56667	7.45	BBC Monitoring Africa	1
 Opokuma	2010-11-11	Violence against civilians	Unidentified Armed Group (Nigeria)	5.1333	6.3	Reuters	NULL
 Opokuma	2011-01-07	Violence against civilians	Unidentified Armed Group (Nigeria)	5.1333	6.3	Reuters	2
-Oporoma	2099-06-28	Violence against civilians	Unidentified Armed Group (Nigeria)	4.79976	6.84567	Reuters News	3
+Oporoma	1999-06-28	Violence against civilians	Unidentified Armed Group (Nigeria)	4.79976	6.84567	Reuters News	3
 Oporoma	2003-07-19	Violence against civilians	Police Forces of Nigeria (1999-2007)	4.79976	6.84567	Reuters News	6
 Oporoma	2006-10-10	Violence against civilians	Unidentified Armed Group (Nigeria)	4.79976	6.84567	Platts Commodity News	NULL
 Oporoma	2006-11-15	Battle-No change of territory	Military Forces of Nigeria (1999-2007)	4.79976	6.84567	AFP	NULL
@@ -2357,9 +2357,9 @@ Plateau State	2011-11-20	Violence against civilians	Fulani Ethnic Militia (Niger
 Port Harcourt	1997-08-07	Violence against civilians	NADECO: National Democratic Coalition Militia	4.78917	6.99861	Reuters News	1
 Port Harcourt	1997-09-29	Violence against civilians	Unidentified Armed Group (Nigeria)	4.78917	6.99861	Daily Times	6
 Port Harcourt	1998-08-17	Riots/Protests	Rioters (Nigeria)	4.78917	6.99861	Reuters News	NULL
-Port Harcourt	2099-10-04	Battle-No change of territory	Okrika Ethnic Militia (Nigeria)	4.78917	6.99861	Reuters News	NULL
-Port Harcourt	2099-10-29	Violence against civilians	Police Forces of Nigeria (1999-2007)	4.78917	6.99861	Reuters News	4
-Port Harcourt	2099-01-11	Riots/Protests	Protesters (Nigeria)	4.78917	6.99861	Reuters News	NULL
+Port Harcourt	1999-10-04	Battle-No change of territory	Okrika Ethnic Militia (Nigeria)	4.78917	6.99861	Reuters News	NULL
+Port Harcourt	1999-10-29	Violence against civilians	Police Forces of Nigeria (1999-2007)	4.78917	6.99861	Reuters News	4
+Port Harcourt	1999-01-11	Riots/Protests	Protesters (Nigeria)	4.78917	6.99861	Reuters News	NULL
 Port Harcourt	2000-12-22	Riots/Protests	Rioters (Nigeria)	4.78917	6.59861	Reuters News	NULL
 Port Harcourt	2001-08-18	Violence against civilians	Unidentified Armed Group (Nigeria)	4.78917	6.99861	Agence France Presse	1
 Port Harcourt	2001-09-25	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.78917	6.99861	Reuters News	3
@@ -2569,7 +2569,7 @@ Sapele	2010-01-01	Riots/Protests	Rioters (Nigeria)	5.91667	5.7	All Africa	1
 Sapele	2010-06-22	Riots/Protests	Protesters (Nigeria)	5.91667	5.7	All Africa	NULL
 Sapele	2011-10-12	Violence against civilians	Unidentified Armed Group (Nigeria)	5.91667	5.7	Agence France Presse	NULL
 Sarkin Kudu	2004-04-27	Violence against civilians	Fulani Ethnic Militia (Nigeria)	9.13333	9.78333	Reuters News	NULL
-Shagamu	2099-07-18	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	6.85	3.65	Xinhua News Agency	NULL
+Shagamu	1999-07-18	Battle-No change of territory	Hausa Ethnic Militia (Nigeria)	6.85	3.65	Xinhua News Agency	NULL
 Shagamu	2002-03-03	Violence against civilians	Unidentified Armed Group (Nigeria)	6.85	3.65	Xinhua News Agency	10
 Shani	2011-04-08	Violence against civilians	Boko Haram  Militia (Nigeria)	10.2162	12.062	Reuters	4
 Shani	2011-04-08	Battle-No change of territory	Unidentified Armed Group (Nigeria)	10.2162	12.062	Agence France Presse	4
@@ -2622,8 +2622,8 @@ Tambawel	2011-08-16	Violence against civilians	Boko Haram  Militia (Nigeria)	12.
 Taraba State	1997-10-30	Riots/Protests	Rioters (Nigeria)	8.0	10.5	BBC Monitoring Service	10
 Taraba State	1998-11-19	Battle-No change of territory	Jukun-Chamba Community Militia (Nigeria)	8.0	10.5	Xinhua News Agency	269
 Taraba State	1998-01-12	Battle-No change of territory	Jukun-Chamba Community Militia (Nigeria)	8.0	10.5	Reuters News	NULL
-Taraba State	2099-10-25	Battle-No change of territory	Kuteb Ethnic Militia (Nigeria)	8.0	10.5	BBC Monitoring Africa	NULL
-Taraba State	2099-08-11	Violence against civilians	Military Forces of Nigeria (1999-2007)	8.0	10.5	Reuters News	200
+Taraba State	1999-10-25	Battle-No change of territory	Kuteb Ethnic Militia (Nigeria)	8.0	10.5	BBC Monitoring Africa	NULL
+Taraba State	1999-08-11	Violence against civilians	Military Forces of Nigeria (1999-2007)	8.0	10.5	Reuters News	200
 Taraba State	2004-04-18	Violence against civilians	Tarok Ethnic Militia (Nigeria)	8.0	10.5	Agence France Presse	NULL
 Taraba State	2011-07-07	Battle-No change of territory	Boko Haram  Militia (Nigeria)	8.0	10.5	BBC Monitoring Africa	NULL
 Tatu	2011-04-09	Violence against civilians	Unidentified Armed Group (Nigeria)	10.49788	6.86737	Agence France Presse	8
@@ -2746,16 +2746,16 @@ Warri	1998-10-16	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.5
 Warri	1998-10-22	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Dow Jones International News	NULL
 Warri	1998-10-22	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	6
 Warri	1998-10-23	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	NULL
-Warri	2099-06-03	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Xinhua News Agency	1
-Warri	2099-06-04	Battle-No change of territory	Urhobo Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	7
-Warri	2099-06-05	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	4
-Warri	2099-05-25	Violence against civilians	Udu Ethnic Militia (Nigeria)	5.51667	5.75	Xinhua News Agency	5
-Warri	2099-05-30	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.51667	5.75	Reuters News	56
-Warri	2099-05-06	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.51667	5.75	All Africa	3
-Warri	2099-12-06	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Dow Jones International News	8
-Warri	2099-05-07	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	20
-Warri	2099-08-18	Violence against civilians	Unidentified Armed Group (Nigeria)	5.51667	5.75	The Oil Daily	NULL
-Warri	2099-08-11	Violence against civilians	Unidentified Armed Group (Nigeria)	5.51667	5.75	The Daily Mirror	NULL
+Warri	1999-06-03	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Xinhua News Agency	1
+Warri	1999-06-04	Battle-No change of territory	Urhobo Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	7
+Warri	1999-06-05	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	4
+Warri	1999-05-25	Violence against civilians	Udu Ethnic Militia (Nigeria)	5.51667	5.75	Xinhua News Agency	5
+Warri	1999-05-30	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.51667	5.75	Reuters News	56
+Warri	1999-05-06	Battle-No change of territory	Unidentified Armed Group (Nigeria)	5.51667	5.75	All Africa	3
+Warri	1999-12-06	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Dow Jones International News	8
+Warri	1999-05-07	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	Reuters News	20
+Warri	1999-08-18	Violence against civilians	Unidentified Armed Group (Nigeria)	5.51667	5.75	The Oil Daily	NULL
+Warri	1999-08-11	Violence against civilians	Unidentified Armed Group (Nigeria)	5.51667	5.75	The Daily Mirror	NULL
 Warri	2000-04-04	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	5.51667	5.75	BBC Monitoring Africa	2
 Warri	2000-04-15	Battle-No change of territory	Udu Ethnic Militia (Nigeria)	5.51667	5.75	BBC Monitoring Africa	2
 Warri	2000-06-20	Violence against civilians	Civilians (Nigeria)	5.51667	5.75	Reuters News	3
@@ -2867,8 +2867,8 @@ Yelwa	2004-05-05	Violence against civilians	Police Forces of Nigeria (1999-2007)
 Yelwa	2010-07-06	Battle-No change of territory	Muslim Militia (Nigeria)	8.83333	9.63333	Voice of America	6
 Yenagoa	1998-07-19	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	BBC Monitoring Service	NULL
 Yenagoa	1998-12-31	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	Reuters News	3
-Yenagoa	2099-12-04	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	Reuters News	6
-Yenagoa	2099-08-18	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	BBC Monitoring Africa	NULL
+Yenagoa	1999-12-04	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	Reuters News	6
+Yenagoa	1999-08-18	Violence against civilians	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	BBC Monitoring Africa	NULL
 Yenagoa	2003-03-25	Violence against civilians	Police Forces of Nigeria (1999-2007)	4.92472	6.26417	This Day (Nigeria)	NULL
 Yenagoa	2003-11-06	Battle-No change of territory	Unidentified Armed Group (Nigeria)	4.92472	6.26417	Agence France Presse	NULL
 Yenagoa	2004-08-26	Battle-No change of territory	Ijaw Ethnic Militia (Nigeria)	4.92472	6.26417	Panafrican News Agency	6
