@@ -8,7 +8,7 @@ for line in sys.stdin:
 	(loc,event_date,event_type) = line.strip('\n').split('\t')
 	if loc != current_loc and current_loc != "START_OF_APP":
 		if end_date != '': # must have found > 2 events for the loc
-			print '\t'.join([loc,start_date,event_date,str(current_diff.days)])
+			print '\t'.join([current_loc,start_date,event_date,str(current_diff.days)])
 		(prev_date,start_date,end_date,start_time_obj,end_time_obj,current_diff)=('','','',None,None,timedelta.min)
 	end_time_obj = datetime.strptime(event_date,'%Y-%m-%d') 
 	current_loc = loc

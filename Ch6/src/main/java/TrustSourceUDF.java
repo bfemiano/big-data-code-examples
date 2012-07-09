@@ -19,6 +19,7 @@ public class TrustSourceUDF extends UDF {
         untrustworthySources.add("This Day (Nigeria)");
     }
 
+    @Override
     public Text evaluate(Text source) {
 
          if (untrustworthySources.contains(source.toString())){
