@@ -1,12 +1,13 @@
 package main.java.employee;
 
-import org.apache.giraph.graph.Edge;
-import org.apache.giraph.graph.EdgeListVertex;
-import org.apache.giraph.graph.GiraphJob;
+import org.apache.giraph.graph.*;
+import org.apache.giraph.lib.TextVertexOutputFormat;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.*;
+import org.apache.hadoop.mapreduce.RecordWriter;
+import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
@@ -51,7 +52,7 @@ public class EmployeeShortestPath implements Tool{
         GiraphJob job = new GiraphJob(conf, "single-source shortest path for employee: " + source_id);
         job.setVertexClass(EmployeeShortestPathVertex.class);
         job.setVertexInputFormatClass(EmployeeRDFTextInputFormat.class);
-        job.setVertexOutputFormatClass(EmployeeRDFTextOutputFormat.class);
+        job.setVertexOutputFormatClass(EmployeeShortestPathOutputFormat.class);
         job.setZooKeeperConfiguration(zooQuorum);
 
         FileInputFormat.addInputPath(job.getInternalJob(), new Path(input));
@@ -119,6 +120,49 @@ public class EmployeeShortestPath implements Tool{
                 sendMessageToAllEdges(msg);
             }
             voteToHalt();
+        }
+    }
+
+    public static class EmployeeShortestPathOutputFormat extends
+            TextVertexOutputFormat<Text, IntWritable, NullWritable> {
+        /**
+         * Simple text based vertex writer
+         */
+        private static class EmployeeRDFVertexWriter
+                extends TextVertexWriter<Text, IntWritable, NullWritable> {
+            /**
+             * Initialize with the LineRecordWriter.
+             *
+             * @param lineRecordWriter Line record writer from TextOutputFormat
+             */
+            private Text valOut = new Text();
+
+            public EmployeeRDFVertexWriter(
+                    RecordWriter<Text, Text> lineRecordWriter) {
+                super(lineRecordWriter);
+            }
+
+            @Override
+            public void writeVertex(
+                    Vertex<Text, IntWritable, NullWritable, ?> vertex)
+                    throws IOException, InterruptedException {
+
+                valOut.set(vertex.getValue().toString());
+                if(vertex.getValue().get() == Integer.MAX_VALUE)
+                    valOut.set("no path");
+                getRecordWriter().write(vertex.getId(), valOut);
+            }
+
+
+        }
+
+        @Override
+        public VertexWriter<Text, IntWritable, NullWritable>
+        createVertexWriter(TaskAttemptContext context)
+                throws IOException, InterruptedException {
+            RecordWriter<Text, Text> recordWriter =
+                    textOutputFormat.getRecordWriter(context);
+            return new EmployeeRDFVertexWriter(recordWriter);
         }
     }
 }
