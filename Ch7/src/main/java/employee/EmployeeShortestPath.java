@@ -125,16 +125,10 @@ public class EmployeeShortestPath implements Tool{
 
     public static class EmployeeShortestPathOutputFormat extends
             TextVertexOutputFormat<Text, IntWritable, NullWritable> {
-        /**
-         * Simple text based vertex writer
-         */
+
         private static class EmployeeRDFVertexWriter
                 extends TextVertexWriter<Text, IntWritable, NullWritable> {
-            /**
-             * Initialize with the LineRecordWriter.
-             *
-             * @param lineRecordWriter Line record writer from TextOutputFormat
-             */
+
             private Text valOut = new Text();
 
             public EmployeeRDFVertexWriter(

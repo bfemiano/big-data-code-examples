@@ -27,22 +27,15 @@ public class EmployeeRDFTextInputFormat extends
         textInputFormat.createRecordReader(split, context));
   }
 
-  /**
-   * Vertex reader associated with {@link EmployeeRDFTextInputFormat}.
-   */
   public static class EmployeeRDFVertexReader extends
       TextVertexInputFormat.TextVertexReader<Text, IntWritable,
       NullWritable, IntWritable> {
-    /** Separator of the vertex and neighbors */
+
     private static final Pattern TAB = Pattern.compile("[\\t]");
     private static final Pattern COLON = Pattern.compile("[:]");
     private static final Pattern COMMA = Pattern.compile("[,]");
 
-    /**
-     * Constructor with the line reader.
-     *
-     * @param lineReader Internal line reader.
-     */
+
     public EmployeeRDFVertexReader(RecordReader<LongWritable, Text>
     lineReader) {
       super(lineReader);

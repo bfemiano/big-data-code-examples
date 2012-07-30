@@ -145,16 +145,10 @@ public class EmployeeBreadthFirstSearch implements Tool{
 
     public static class BreadthFirstTextOutputFormat extends
             TextVertexOutputFormat<Text, IntWritable, NullWritable> {
-        /**
-         * Simple text based vertex writer
-         */
+
         private static class EmployeeRDFVertexWriter
                 extends TextVertexWriter<Text, IntWritable, NullWritable> {
-            /**
-             * Initialize with the LineRecordWriter.
-             *
-             * @param lineRecordWriter Line record writer from TextOutputFormat
-             */
+
             private Text valOut = new Text();
             private String sourceId = null;
             private String destId = null;
