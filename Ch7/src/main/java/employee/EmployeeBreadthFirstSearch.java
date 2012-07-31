@@ -107,7 +107,7 @@ public class EmployeeBreadthFirstSearch implements Tool{
             V extends Writable, E extends Writable, M extends Writable>
             extends EdgeListVertex<Text, IntWritable, NullWritable, IntWritable> {
 
-        private IntWritable msg = new IntWritable(1);
+        private final IntWritable msg = new IntWritable(1);
 
         private boolean isSource() {
             return getId().toString().equals(
@@ -132,7 +132,6 @@ public class EmployeeBreadthFirstSearch implements Tool{
             boolean connectedToSourceId = false;
             for(IntWritable msg : messages) {
                 if(isDest()) {
-                    System.out.println("DestId got message");
                     setValue(msg);
                 }
                 connectedToSourceId = true;
