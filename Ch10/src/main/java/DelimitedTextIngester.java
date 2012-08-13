@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import org.apache.accumulo.core.client.mapreduce.AccumuloFileOutputFormat;
 import org.apache.accumulo.core.client.mapreduce.lib.partition.RangePartitioner;

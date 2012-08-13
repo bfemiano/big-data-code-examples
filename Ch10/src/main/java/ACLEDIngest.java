@@ -1,9 +1,10 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import org.apache.accumulo.core.client.mapreduce.AccumuloFileOutputFormat;
 import org.apache.accumulo.core.client.mapreduce.lib.partition.RangePartitioner;
 import org.apache.accumulo.core.data.Key;
 import org.apache.accumulo.core.data.Value;
+import org.apache.accumulo.core.util.CachedConfiguration;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.FileSystem;
@@ -20,14 +21,12 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 import java.io.IOException;
-import java.util.*;
 import java.util.regex.Pattern;
 
 public class ACLEDIngest  extends Configured implements Tool {
 
 
     private Configuration conf;
-    public static final String NAME = "acled_ingest";
 
     public ACLEDIngest(Configuration conf) {
         this.conf = conf;
@@ -105,7 +104,6 @@ public class ACLEDIngest  extends Configured implements Tool {
         protected void map(LongWritable key, Text value,
                            Context context) throws IOException, InterruptedException {
 
-            //TODO generate key, reset values;
             String[] values = tabPattern.split(value.toString());
             if(values.length == 8)  {
                 String [] rowKeyFields = new String[] {values[4], values[5], values[1]}; //lat,lon,timestamp
@@ -176,9 +174,8 @@ public class ACLEDIngest  extends Configured implements Tool {
     }
 
     public static void main(String[] args) throws Exception {
-        GenericOptionsParser parser = new GenericOptionsParser(args);
-        args = parser.getRemainingArgs();
-        Configuration conf = parser.getConfiguration();
+        Configuration conf = CachedConfiguration.getInstance();
+        args = new GenericOptionsParser(conf, args).getRemainingArgs();
         ToolRunner.run(new ACLEDIngest(conf), args);
     }
 }

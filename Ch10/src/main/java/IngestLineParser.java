@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.LongWritable;

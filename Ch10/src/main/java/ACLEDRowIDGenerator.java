@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import javax.security.auth.login.Configuration;
 import java.io.IOException;
@@ -17,9 +17,9 @@ public class ACLEDRowIDGenerator implements RowIDGenerator {
     public String getRowID(String[] parameters)
             throws IllegalArgumentException{
         StringBuilder builder = new StringBuilder();
-        builder.append(getZOrderedCurve(parameters[0], parameters[1])); //TODO: read off tuples for qual: lat, lon
+        builder.append(getZOrderedCurve(parameters[0], parameters[1]));
         builder.append("_");
-        builder.append(getReverseTime(parameters[2]));      //TOOD: read off tuple for qual: dtg
+        builder.append(getReverseTime(parameters[2]));
         return builder.toString();
     }
 

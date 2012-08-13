@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import org.apache.hadoop.hbase.thrift.generated.IllegalArgument;
 import org.testng.annotations.BeforeClass;
@@ -9,11 +9,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * User: bfemiano
- * Date: 8/8/12
- * Time: 1:33 AM
- */
 public class ValidatingKeyGenTest {
 
     private ACLEDRowIDGenerator keyGen;

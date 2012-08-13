@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import org.apache.accumulo.core.client.AccumuloException;
 import org.apache.accumulo.core.client.AccumuloSecurityException;
@@ -18,11 +18,6 @@ import java.util.Collection;
 
 import static org.testng.Assert.*;
 
-/**
- * User: bfemiano
- * Date: 8/9/12
- * Time: 7:56 PM
- */
 public class AccumuloTableAssistantTest {
 
     private AccumuloTableAssistant assistant;

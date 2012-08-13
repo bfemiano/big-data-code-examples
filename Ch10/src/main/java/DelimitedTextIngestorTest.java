@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 
 import org.apache.commons.cli.CommandLine;
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.testng.Assert.*;
-import static mil.rebel.taint.accumulo.DelimitedTextIngester.*;
+import static examples.accumulo.DelimitedTextIngester.*;
 
 public class DelimitedTextIngestorTest {
 

@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 import javax.security.auth.login.Configuration;
 import java.io.IOException;

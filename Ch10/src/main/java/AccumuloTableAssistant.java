@@ -1,4 +1,4 @@
-package mil.rebel.taint.accumulo;
+package examples.accumulo;
 
 
 import org.apache.accumulo.core.client.*;
@@ -16,11 +16,7 @@ import javax.print.DocFlavor;
 import java.io.*;
 import java.util.*;
 
-/**
- * User: bfemiano
- * Date: 8/9/12
- * Time: 5:44 PM
- */
+
 public class AccumuloTableAssistant {
 
     private Connector connector;
