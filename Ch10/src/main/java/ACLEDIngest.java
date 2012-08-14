@@ -82,7 +82,7 @@ public class ACLEDIngest  extends Configured implements Tool {
     }
 
     private String printUsage() {
-        return "acled_ingest <input> <output> <instance_name> <tablename> " +
+        return "<input> <output> <instance_name> <tablename> " +
                 "<username> <password> <zoohosts> <splits_file_path>";
     }
 
@@ -155,7 +155,7 @@ public class ACLEDIngest  extends Configured implements Tool {
                 throws IOException, InterruptedException {
             if(!cell.toUpperCase().equals("NULL")) {
                 qual.set(qualStr);
-                outKey = new Key(key, cf, qual);
+                outKey = new Key(key, cf, qual, System.currentTimeMillis());
                 outValue.set(cell.getBytes());
                 context.write(outKey, outValue);
             }

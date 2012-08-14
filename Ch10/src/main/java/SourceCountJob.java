@@ -72,7 +72,7 @@ public class SourceCountJob extends Configured implements Tool {
     }
 
     private String printUsage() {
-        return "acled_ingest <tablename> <output> <instance_name> <username> <password> <zoohosts>";
+        return "<tablename> <output> <instance_name> <username> <password> <zoohosts>";
     }
 
     private Path clearOutputDir(String outputStr)

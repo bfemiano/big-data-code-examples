@@ -1,7 +1,5 @@
 package examples.accumulo;
 
-import javax.security.auth.login.Configuration;
-import java.io.IOException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
