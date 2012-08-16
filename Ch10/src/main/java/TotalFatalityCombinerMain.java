@@ -48,7 +48,6 @@ public class TotalFatalityCombinerMain {
         writer.addMutation(m3);
         writer.close();
 
-        Combiner search = new SummingCombiner();
         IteratorSetting iter = new IteratorSetting(1, SummingCombiner.class);
         LongCombiner.setEncodingType(iter, SummingCombiner.Type.STRING);
         Combiner.setColumns(iter, Collections.singletonList(new IteratorSetting.Column(COLUMN_FAMILY, FATALITIES_QUAL)));

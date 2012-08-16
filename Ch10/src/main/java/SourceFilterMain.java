@@ -22,7 +22,7 @@ public class SourceFilterMain {
 
     public static void main(String[] args) throws Exception {
         if(args.length < 5) {
-            System.err.println("usage: <src> <instance name>  <user> <password> <zookeepers");
+            System.err.println("usage: <src> <instance name>  <user> <password> <zookeepers>");
             System.exit(0);
         }
         String src = args[0];

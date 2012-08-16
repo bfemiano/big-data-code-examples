@@ -1,5 +1,6 @@
 package examples.accumulo;
 
+import java.lang.IllegalArgumentException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -14,6 +15,8 @@ public class ACLEDRowIDGenerator implements RowIDGenerator {
     @Override
     public String getRowID(String[] parameters)
             throws IllegalArgumentException{
+        if(parameters.length != 3)
+            throw new IllegalArgumentException("Required: {lat, lon, dtg}");
         StringBuilder builder = new StringBuilder();
         builder.append(getZOrderedCurve(parameters[0], parameters[1]));
         builder.append("_");
