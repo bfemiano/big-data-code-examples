@@ -23,7 +23,7 @@ import org.apache.hadoop.util.ToolRunner;
 import java.io.IOException;
 import java.util.regex.Pattern;
 
-public class ACLEDIngest  extends Configured implements Tool {
+public class ACLEDIngest extends Configured implements Tool {
 
 
     private Configuration conf;
