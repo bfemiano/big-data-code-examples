@@ -23,6 +23,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 import java.io.IOException;
+import java.lang.Override;
 import java.util.HashSet;
 
 public class SourceCountJob extends Configured implements Tool {
@@ -89,6 +90,7 @@ public class SourceCountJob extends Configured implements Tool {
         private Text outKey = new Text();
         private IntWritable outValue = new IntWritable(1);
 
+        @Override
         protected void map(Key key, Value value,
                            Context context) throws IOException, InterruptedException {
 

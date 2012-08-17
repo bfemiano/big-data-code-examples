@@ -16,7 +16,7 @@ public class TotalFatalityCombinerMain {
     public static final long MAX_MEMORY= 10000L;
     public static final long MAX_LATENCY=1000L;
     public static final int MAX_WRITE_THREADS = 4;
-    public static final String TEST_TABLE = "testing_combiner";
+    public static final String TEST_TABLE = "acled";
     public static final Text COLUMN_FAMILY = new Text("cf");
     public static final Text FATALITIES_QUAL = new Text("fat");
 
