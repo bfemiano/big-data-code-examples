@@ -64,9 +64,11 @@ public class SourceCountJob extends Configured implements Tool {
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(IntWritable.class);
         job.setReducerClass(ACLEDSourceReducer.class);
+        job.setCombinerClass(ACLEDSourceReducer.class);
         job.setJarByClass(getClass());
         job.setOutputFormatClass(TextOutputFormat.class);
         FileOutputFormat.setOutputPath(job, clearOutputDir(outputStr));
+        job.setNumReduceTasks(1);
         return job.waitForCompletion(true) ? 0 : 1;
 
 
