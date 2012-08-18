@@ -49,7 +49,7 @@ public class ACLEDRowIDGenerator implements RowIDGenerator {
             throws IllegalArgumentException {
 
         String[] pointPieces = decimalPattern.split(point);
-        if(pointPieces.length != 1 & pointPieces.length != 2) {
+        if(pointPieces.length > 2) {
             throw new IllegalArgumentException("Malformed point: " + point);
         }
         String integralStr = null;
